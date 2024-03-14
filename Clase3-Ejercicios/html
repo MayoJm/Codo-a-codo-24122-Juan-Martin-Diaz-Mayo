@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Icon</title>
+    <link rel="shortcut icon" href="./ico/favicon.ico">
+</head>
+
+<body>
+    <section>
+        <h1>Hola Mundo...</h1>
+        <img src="./imgs/codo.png" alt="Esto es una imagen" -->
+        <br>
+        <video loop controls muted autoplay width="720" height="480">
+            <source src="./video/favicon.mp4" type="video/mp4">
+            Tu navegador no es compatible con videos...
+        </video>
+        <br>
+        <iframe width="720" height="480" src="https://www.youtube.com/embed/tXNqdDUdr6I?si=3gB5SkB_MobrdQAB"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+    </section>
+
+</body>
+
+</html>
